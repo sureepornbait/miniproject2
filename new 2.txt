@@ -1,0 +1,4 @@
+update member set name='Nhamjai' where ID='0001';
+update 
+
+grant all on employee.* to user01@localhost identified by 'rmutsb';

@@ -1,0 +1,10 @@
+insert into member (ID,Name,Surname,Age,Salary,Tel,Email)values
+('0001','Nhamjit','Rakkanrean','25','22000','0812345234','nhamjit@rmutsb.ac.th');
+insert into member (ID,Name,Surname,Age,Salary,Tel,Email)values
+('0002','sureeporn','paibong','21','15000','0904419003','fang90032593@gmail.com');
+insert into member (ID,Name,Surname,Age,Salary,Tel,Email)values
+('0003','sunisa','kajareon','21','16000','0924561454','ggg@muy.com');
+insert into member (ID,Name,Surname,Age,Salary,Tel,Email)values
+('0004','palita','Ruensugkhee','21','22000','0908890026','tonfernii-baby@live.com');
+insert into member (ID,Name,Surname,Age,Salary,Tel,Email)values
+('0005','supawadee','innem','21','22000','0922554896','supawadee@live.com');
